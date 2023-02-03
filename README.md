@@ -1,4 +1,3 @@
-## TEST
 ## post-program-workshop-app Binary Upload Boom
 
 Resilient Coders post bootcamp workshop app template
